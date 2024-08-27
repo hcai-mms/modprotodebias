@@ -2,6 +2,10 @@
 
 This repository hosts the code and and the settings for the paper ["Modular Debiasing of Latent User Representations in Prototype-based Recommender Systems"](https://karapostk.github.io/assets/pdf/melchiorre2024modular.pdf) by [Alessandro B. Melchiorre](https://karapostk.github.io/), Shahed Masoudian, Deepak Kumar, and Markus Schedl at ECML-PKDD'24.
 ![MMD_Debiasing](./results/plots/gender_lfm2bdemobias_mmd_bacc_ndcg_lams.png "MMD Gender Debiasing")
+
+## CV
+Ending my PhD in October, looking for Applied Scientist/Data Scientist positions.
+[CV is here](https://github.com/hcai-mms/modprotodebias/blob/main/AlessandroBMelchiorreCV.pdf)
 ## Installation
 
 ### Environment
